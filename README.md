@@ -1,5 +1,5 @@
 # The Grassy Knoll (2010)
-** A peaceful, animated HTML/jQuery scene of rolling hills and roaming clouds. [Live Demo](http://play.killglare.com/grassyknoll/)**
+** A peaceful, animated HTML/jQuery scene of rolling hills and roaming clouds. [Live Demo](http://play.killglare.com/grassyknoll/) **
 
 ![alt tag](https://raw.github.com/cratervale/TheGrassyKnoll/master/Screenshot.png)
 
